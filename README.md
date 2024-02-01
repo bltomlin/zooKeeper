@@ -1,2 +1,2 @@
 # zooKeeper
-Helping the local zoo take care of its animals by building a tool to keep an eye on them.
+Working with variables, strings and arrays, put them in while loops and develop a simple console app from scratch.
