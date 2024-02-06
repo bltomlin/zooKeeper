@@ -3,13 +3,13 @@ Working with variables, strings and arrays, put them in while loops and develop 
 
 
 # Examples
-```
+
 The greater-than symbol followed by a space (> ) represents the user input. Note that it's not part of the input.
 
 The final version of the program should run like this:
 
-Example 1
-
+## Example 1
+```
 Please enter the number of the habitat you would like to view: > 3
 
 Switching on the camera in the goose habitat...
